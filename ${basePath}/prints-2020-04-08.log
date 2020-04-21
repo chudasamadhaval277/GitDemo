@@ -1,0 +1,7 @@
+15:39:57.108 [main] INFO  resource.Base - Success111 Home page
+15:39:59.678 [main] INFO  resource.Base - page navigation Home page
+15:40:11.511 [main] INFO  resource.Base - Success111 Home page
+15:40:13.970 [main] INFO  resource.Base - page navigation Home page
+15:40:22.788 [main] INFO  resource.Base - Success111 Home page
+15:40:35.279 [main] INFO  acadmy.ValidateNavigationBar - driver intailize ValidateNavigationbar
+15:40:44.419 [main] INFO  acadmy.ValidateNavigationBar - page navigation ValidateNavigationbar
