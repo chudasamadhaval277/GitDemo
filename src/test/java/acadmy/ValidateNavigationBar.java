@@ -32,6 +32,9 @@ public class ValidateNavigationBar extends Base {
 		System.out.println(b);
 		Assert.assertFalse(false);
 		log.info("suucess ValidateNavigationbar");
+		
+		System.out.println("Dhaval");
+		System.out.println("Suhani");
 	}
 	@AfterTest
 	public void tearDown()
@@ -43,5 +46,8 @@ public class ValidateNavigationBar extends Base {
 	{
 		ValidateNavigationBar v = new ValidateNavigationBar();
 		v.BaseNavigation();
+		
+		System.out.println("Dhaval");
+		System.out.println("Suhani");
 	}
 }

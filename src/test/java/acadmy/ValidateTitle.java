@@ -39,6 +39,9 @@ public class ValidateTitle extends Base {
 		System.out.println(Title);
 		Assert.assertEquals(Title, "FEATURED COURSES");
 		log.info("success Validate titil");
+		
+		System.out.println("Dhaval");
+		System.out.println("Suhani");
 	}
 	@AfterTest
 	public void tearDown()
