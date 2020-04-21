@@ -25,7 +25,8 @@ public class HomePage extends Base  {
 	{
 		driver = initializeDriver();
 		log.info("driver intailize Home page");
-		
+		System.out.println("Dhaval");
+		System.out.println("Suhani");
 	}
 	@Test(dataProvider="getData")
 	//public void basePageNavigation() throws IOException, InterruptedException
